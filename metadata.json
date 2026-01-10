@@ -1,0 +1,8 @@
+
+{
+  "name": "SafeCity Monitor - AI ALPR Command Center",
+  "description": "A professional SaaS-grade AI Helmet and License Plate Recognition platform for urban traffic compliance and safety monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
