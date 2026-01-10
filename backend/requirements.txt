@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-bcrypt
+flask-jwt-extended
+ultralytics
+easyocr
+paddlepaddle
+paddleocr
+opencv-python-headless
+numpy
+pillow
